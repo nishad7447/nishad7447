@@ -2,14 +2,6 @@
 
 ##  Hi, I am a MERN Stack Developer 👩‍💻
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me on:
-<p align="left">
- 
-<a href="https://www.linkedin.com/in/nishadtk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nishad's Linkedin profile" height="30" width="40" /></a>
-</p>
-<br/>
-
 ## 🚀 Languages and Tools:
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -22,12 +14,19 @@
    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/512/mongodb.png" width="48" height="48"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48"/> </a> 
   <a href="https://tailwind.com" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.png" width="48" height="48"/> </a> 
-   <a href="https://firebase.com" target="_blank"> <img src=" https://img.icons8.com/color/search/firebase" width="48" height="48"/> </a> 
+   <a href="https://firebase.com" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-firebase-icon.png" width="48" height="48"/> </a> 
    <a href="https://nginx.com" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nginx-icon.png" width="48" height="48"/> </a> 
    <a href="https://postgresql.org" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.pngg" width="48" height="48"/> </a> 
    <a href="https://socket.io" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/socket-io-icon.png" width="48" height="48"/> </a> 
  
 </p>
 <br />
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me on:
+<p align="left">
+ 
+<a href="https://www.linkedin.com/in/nishadtk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nishad's Linkedin profile" height="30" width="40" /></a>
+</p>
+<br/>
 
 - Keeping myself updated with React course, Namastey React by Akshay Saini.
